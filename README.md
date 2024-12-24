@@ -20,7 +20,7 @@
 
 * Show the last seen status of a user
 
-* Do sed substitutions on PRIVMSG's
+* Do `sed` substitutions on PRIVMSG's
 
 * Addquote for a user
 
@@ -32,8 +32,8 @@
 
 ### Library/Module Dependencies
 
-* requests
-* ntplib
-* curl
-* googleapiclient
-* BeautifulSoup
+* requests (for making requests to servers)
+* ntplib (for time command)
+* curl (self explanatory)
+* googleapiclient (for google api)
+* BeautifulSoup (for parsing search results)

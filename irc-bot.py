@@ -36,6 +36,7 @@ irc.send(("USER "+botnick+" "+botnick+" "+botnick+" bot has joined the chat\r\n"
 irc.send(("NICK "+botnick+"\n").encode())
 
 time.sleep(1)
+
 # replace yourpassword on the line below with your password if you need to idenify yourself to the server
 
 irc.send(("PRIVMSG"+" :NickServ IDENTIFY yourpassword"+"\n").encode())
