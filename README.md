@@ -1,5 +1,5 @@
 > [!NOTICE]
-> # ⚠️ Update, December 2024: Account Migration to [github.com/samiulahmedjoy](https://samiulahmedjoy)
+> ⚠️ Update, December 2024: Account Migration to [github.com/samiulahmedjoy](https://samiulahmedjoy)
 
 ## A basic IRC bot written in Python 3.9
 
